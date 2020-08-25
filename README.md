@@ -12,3 +12,5 @@ pip install skyfield.tar.gz
 run
 
 python3 issspoter.py
+
+by changing latitude and longtitude to specfic location you can run it.
